@@ -57,7 +57,7 @@ STEP 2- **Coding the bot
    Now we’re almost done with the Heroku part, you just need to add the files, commit it and push those changes to Heroku. For our changes, we can add all the files in the       git repo. So run the following command.
     "git add ."
     You can check the status using the following command.
-    "git statuS"
+    "git status"
     Once added to git, we need to commit it and push it. Run these commands.
     "git commit -m <add_your_message>"
     "git push heroku master"
